@@ -14,7 +14,7 @@ source=("halium10-post-install"
         "ril_subscription.conf"
         "90_manjaro.gschema.override")
 install=$pkgname.install
-sha256sums=('ca0b6b50bfaf9d4fef45889d92f10ddfef356fa2d77979bb8559fb46bfe55f89'
+sha256sums=('0f0edb2ae1befbfa344bab2161efd2a8cc59bf75a91dc5776631d6afcf88927b'
             '89e445612f00b448165453daedd7b2c2fc91bbf9aaf62e95070f3acb0be94849'
             '5571610e4cee293e8776b33ec225ca24af05197cfd7c3ebd3c2e8d830efd55b0'
             'f032810ea128d4cf9377d144cded32cbf1a2ed18087403fe706a1f9707fd0d7f'
